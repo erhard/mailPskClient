@@ -69,12 +69,12 @@ I simply faked the serialport.java
 
 FLDIGI and JavaPSKMail running 
 
-![FLDigi And JavaPSKMail](doku/PSKmailAndFldigi01.png)
+![FLDigi And JavaPSKMail](javapskmail/doku/PSKmailAndFldigi01.png)
 
 
 Missing Settings for PSKMail in FLdigi
 
-![FLDigi And JavaPSKMail](doku/fldigi_settings01.png)
+![FLDigi And JavaPSKMail](javapskmail/doku/fldigi_settings01.png)
 
 
 
